@@ -16,7 +16,8 @@ How to get started?
   - Contact a moderator for the repository and get up to speed.
   
  ----------------------------------------------------------------------------------------------------------------------------------- 
-To kickstart our development community we've developed Project Unicorn. We will add more projects to Unicorn as we progress
+To kickstart our development community we are launching project Unicorn.
+
 Learn more about Project Unicorn here:
 https://docs.google.com/presentation/d/e/2PACX-1vQAw59sabUiLl2s7gVq3MIfSknd6AZnIB0jyeqYyWpStoAyU7Ojy2h-Yp3QPe-YN_GfxxM9eTIf4UG7/pub?start=false&loop=false&delayms=3000
 
