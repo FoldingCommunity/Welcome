@@ -1,6 +1,7 @@
 # Welcome
 
 Welcome!
+
 FoldingCommunity is the official developer community of Foldingathome(https://Foldingathome.org).
 
 In addition to Github we've created a Discord Server(https://discord.gg/XrXBkMH) designated to developer chat with channels for each repository to facilitate discussions.
