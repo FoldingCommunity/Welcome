@@ -1,20 +1,18 @@
 # Welcome
 
+Welcome!
+FoldingCommunity is the official developer community of Foldingathome(https://Foldingathome.org).
 
-FoldingCommunity is the official developer community https://Foldingathome.org.
-The community is found here on Github and on our Discord channel for developers: 
-https://discord.gg/XrXBkMH
+In addition to Github we've created a Discord Server(https://discord.gg/XrXBkMH) designated to developer chat with channels for each repository to facilitate discussions.
 
-We have meeting twice per week on Discord to onboard new members and learn from eachother.
-Wednesday and Sunday at 22:00 CET
+We host weekly meetings on Discord Sundays at 22:00 CET. 
 
-How to get started?
-- Do you have an idea?
-  - If it fits to one of the current repositories kindly add it to the projectboard of that repository. Check with the moderator and get started.
-  
-- Do you want to join a project? 
-  - Contact a moderator for the repository and get up to speed.
-  
+To keep track of the development projects in the different Repositories we use Github Projects
+with one Masterboard for the organization and one project board per repository. 
+
+Kindly check them out and get started.
+
+
  ----------------------------------------------------------------------------------------------------------------------------------- 
 To kickstart our development community we are launching project Unicorn.
 
